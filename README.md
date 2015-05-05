@@ -1,3 +1,3 @@
-# box-nodemon
+# docker-nodemon
 
-Dockerfile for nodemon docker image.
+Dockerfile for nodemon.
