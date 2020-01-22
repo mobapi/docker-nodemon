@@ -1,3 +1,3 @@
 # docker-nodemon
 
-Node 6, 8 & 10 dockerfiles for nodemon.
+Node 6, 8, 10 & 12 dockerfiles for nodemon.
